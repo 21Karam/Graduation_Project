@@ -37,6 +37,7 @@ Used for unpaired image-to-image translation in CycleGAN.
 ## 📥 Download Resources
 - Weights: https://drive.google.com/file/d/1wHigwNyTHD2NyJpOOnu0NlleN-gZm8dY/view?usp=drive_link
 - Dataset: https://drive.google.com/file/d/1KNDyRPFvIuBhKKr1QrbLWHIx_pdq3sj2/view?usp=drive_link
+- Interface: https://drive.google.com/drive/folders/1XqRcCPmcA0Zru0e9QjBx8Z-9hsxhRmrQ?usp=drive_link
   
 After downloading, place them like this:
 project/
