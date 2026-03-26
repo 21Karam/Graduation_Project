@@ -38,8 +38,10 @@ Used for unpaired image-to-image translation in CycleGAN.
 - Weights: https://drive.google.com/file/d/1wHigwNyTHD2NyJpOOnu0NlleN-gZm8dY/view?usp=drive_link
 - Dataset: https://drive.google.com/file/d/1KNDyRPFvIuBhKKr1QrbLWHIx_pdq3sj2/view?usp=drive_link
 - Interface: https://drive.google.com/drive/folders/1XqRcCPmcA0Zru0e9QjBx8Z-9hsxhRmrQ?usp=drive_link
-  
+⚠️Due to large file sizes, model weights and dataset are stored externally.
 After downloading, place them like this:
+## 📂 Project Structure
+
 project/
 │
 ├── code/
@@ -56,6 +58,7 @@ project/
 1. Download weights and dataset from links above  
 2. Place them in the correct folders  
 3. Run: interface/interface.ipynb
+4. Run the notebook using Jupyter Notebook or Google Colab.
 
 
 
